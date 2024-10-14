@@ -1,0 +1,1 @@
+print(f"Car within allowed speed: {40<int(input("How fast is the car going? "))<140}")
